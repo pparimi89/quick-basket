@@ -1,0 +1,18 @@
+Header:
+  Company Name, Location, Search Products, My Account
+
+Banner:
+  Image scrolling should come.
+
+Categories:
+  Provide a search for the categories.
+  List all the items.
+
+
+
+Product items:
+  Each item:
+    Image, weight, price, Add To Cart.
+
+When "Add to Cart" is clicked, in the middle
+   - Quantity(number) +
